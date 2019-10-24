@@ -1,2 +1,2 @@
 # efi-lenovo-v330
-efi clover lenovo v330 hackintosh mojave
+efi clover for lenovo v330 hackintosh mojave 10.14
